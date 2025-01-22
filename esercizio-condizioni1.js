@@ -1,7 +1,7 @@
 // IF/ ELSE IF/ ELSE
 
 
-//let voto = prompt(`inserisci il tuo voto!`);
+//let voto = parseInt(prompt('inserisci il voto'));
 
 //if (voto < 18) {
 //    console.log(`insufficiente`);
@@ -13,7 +13,7 @@
 //    console.log(`ottimo`);  
 //}else if(voto == 30){
 // console.log(`eccellente`);
-//}else (voto > 30){
+//}else{
 //    console.log(`non esiste un voto maggiore di 30`); 
 //} 
 
